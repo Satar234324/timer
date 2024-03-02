@@ -1,0 +1,28 @@
+.container{
+    background-color: palevioletred;
+    width: 150vw;
+    height: 150vh;
+    background-position: center;
+    background-position: cover;
+    position: relative;
+}
+.content p {
+    color: #3516e6;
+    font-size: 64px;
+    
+}
+.content p span{
+    color: #fffafa;
+    font-size: 64px;
+    font-weight: 600;
+}
+.Timer{
+    display: flex;
+}
+.Timer div{
+    flex-basis: 100px;
+}
+.Timer div p{
+    font-size: 60px;
+    margin-bottom: -14px;
+}
